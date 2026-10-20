@@ -107,7 +107,7 @@ Kolom: scenario_id, users, months, mobile_cost, wifi_cost, installation_cost, ex
 
 ### `mobile_transactions.csv`
 
-File ini menyimpan riwayat pembelian paket internet seluler. Satu baris mewakili satu transaksi pembelian paket, bukan satu bulan.
+File ini menyimpan riwayat pembelian paket internet seluler. Satu baris mewakili satu transaksi pembelian paket, bukan satu bulan. Periode pengumpulan data dimulai dari 3 bulan terakhir (Saat ini bulan Oktober).
 
 Nama kolom | Tipe data | Deskripsi | Contoh |
 | - | - | - | - |
