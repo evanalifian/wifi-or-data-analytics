@@ -1,0 +1,19 @@
+dataset,isu,keputusan,alasan,baris_terdampak
+mobile_transactions,Baris kosong sisa ekspor CSV,Dibuang (dropna how='all'),Tidak ada informasi di baris tersebut,3
+mobile_transactions,extra_cost bernilai 0 di semua baris (kolom konstan),"Dipertahankan, dicatat sebagai keterbatasan",Bagian dari skema dataset; tidak berpengaruh pada hitungan biaya,34
+mobile_transactions,Harga kosong pada data awal sudah diisi estimasi,Ditandai kolom is_estimated; tidak diimputasi ulang,"Estimasi bukan data asli, harus bisa dipisahkan saat analisis",15
+mobile_transactions,Tanggal di luar jendela Agustus–Oktober 2026 (termasuk 2 baris Juli 2025),"Dipertahankan, ditandai in_window = False",Penghapusan tidak bisa dibatalkan; analisis inti cukup memfilter in_window,12
+mobile_transactions,Pengecekan duplikat transaksi (tanggal+paket+kuota+masa aktif),Tidak ada baris dibuang,Tidak ditemukan duplikat,0
+mobile_transactions,Outlier price_per_gb (IQR),Tidak ada tindakan,"Semua nilai dalam batas IQR (paket 1,5 GB estimasi mendekati batas atas)",0
+wifi_offers,Baris kosong,Dibuang (dropna how='all'),Tidak ada informasi,0
+wifi_offers,installation_cost / contract_months kosong,Tidak diimputasi; ditandai info_lengkap = False,"Fakta spesifik provider, tidak dapat ditebak dari kolom lain",7
+wifi_offers,Nama paket kembar akibat nama terpotong di sumber,Dipertahankan; baris dibedakan oleh harga dan kecepatan,"Harga/kecepatan berbeda, jadi penawarannya memang berbeda",9
+wifi_offers,Outlier harga bulanan / biaya per Mbps (IQR),Dipertahankan,Paket kecepatan tinggi atau bundle TV memang lebih mahal; harga sudah sesuai sumber,4
+usage_log,Baris kosong,Dibuang (dropna how='all'),Tidak ada informasi,0
+usage_log,Kelengkapan tanggal dan duplikat tanggal,Tidak ada perbaikan diperlukan,Deret harian lengkap dan tidak ada tanggal ganda,0
+usage_log,"usage_hours, activity_type, connection_issue_count hampir kosong",Tidak diimputasi; dipertahankan sesuai skema,Tidak ada data asli yang cukup; imputasi akan mengarang data pribadi,21
+usage_log,Baris 1 November belum satu hari penuh,"Dipertahankan, ditandai is_partial_day = True",Diambil malam hari; analisis dibandingkan dengan dan tanpa baris ini,1
+usage_log,Outlier data_used_gb (IQR),Tidak ada tindakan,Semua nilai berada dalam batas IQR,0
+scenario_inputs,Baris kosong,Dibuang (dropna how='all'),Tidak ada informasi,0
+scenario_inputs,Validitas dan logika parameter skenario,Tidak ada perbaikan diperlukan,Semua aturan terpenuhi,0
+scenario_inputs,"Pelacakan antar file (wifi_offers, mobile_transactions)",Semua nilai bisa dilacak,Skenario harus bersumber dari data asli,0

@@ -1,0 +1,54 @@
+provider,package_name,monthly_cost,installation_cost,speed_mbps,contract_months,package_type,region,relevan_bangkalan,cost_per_mbps,info_lengkap
+IndiHome,Paket JITU 1 1P 30 Mbps 295K,295000,0,30.0,12,internet_only,tidak_berlaku,True,9833.0,True
+IndiHome,Paket Complete 1P 100 Mbps,515000,0,100.0,12,internet_only,tidak_berlaku,True,5150.0,True
+IndiHome,Paket JITU 1 2P-TV 30 Mbps 340K,340000,250000,30.0,12,bundle,tidak_berlaku,True,11333.0,True
+IndiHome,Paket JITU 1 2P-TV 30 Mbps 455K,455000,250000,30.0,12,bundle,tidak_berlaku,True,15167.0,True
+IndiHome,Paket JITU 1 3P 30 Mbps 360K,360000,250000,30.0,12,bundle,tidak_berlaku,True,12000.0,True
+EZnet by Telkomsel,EZnet Wireless 10 Mbps,150000,150000,10.0,12,internet_only,tidak_berlaku,True,15000.0,True
+Biznet Home,Home 0D 50 Mbps,250000,250000,50.0,0,internet_only,tidak_berlaku,True,5000.0,True
+Biznet Home,Home 1D 150 Mbps,375000,250000,150.0,0,internet_only,tidak_berlaku,True,2500.0,True
+Biznet Home,Home 2D 250 Mbps,575000,250000,250.0,0,internet_only,tidak_berlaku,True,2300.0,True
+Biznet Home,Gamers 3D 300 Mbps,700000,250000,300.0,0,internet_only,tidak_berlaku,True,2333.0,True
+IndiHome,Paket JITU 1 3P 30 Mbps 475K,475000,500000,30.0,12,bundle,tidak_berlaku,True,15833.0,True
+IndiHome,Paket IndiHome Netflix 2P-TV…,385000,500000,30.0,12,bundle,tidak_berlaku,True,12833.0,True
+IndiHome,Paket IndiHome Netflix 2P-TV…,460000,500000,50.0,12,bundle,tidak_berlaku,True,9200.0,True
+IndiHome,Paket IndiHome Netflix 3P 30…,410000,500000,30.0,12,bundle,tidak_berlaku,True,13667.0,True
+IndiHome,Paket IndiHome Netflix 2P-TV…,365000,500000,30.0,12,bundle,tidak_berlaku,True,12167.0,True
+MNC Play,VISION+ PREMIUM 20 Mbps,279000,200000,20.0,,tidak_jelas,tidak_berlaku,True,13950.0,False
+MNC Play,VISION+ PREMIUM 100 Mbps,709000,200000,100.0,,tidak_jelas,tidak_berlaku,True,7090.0,False
+MNC Play,VISION+ PREMIUM 30 Mbps,339000,200000,30.0,,tidak_jelas,tidak_berlaku,True,11300.0,False
+MNC Play,VISION+ PREMIUM 50 Mbps,459000,200000,50.0,,tidak_jelas,tidak_berlaku,True,9180.0,False
+IndiHome,Paket IndiHome Netflix 3P 30…,430000,500000,30.0,12,bundle,tidak_berlaku,True,14333.0,True
+IndiHome,Paket JITU 1 1P 50 Mbps,350000,500000,50.0,12,internet_only,tidak_berlaku,True,7000.0,True
+IndiHome,Paket IndiHome Netflix 2P-TV…,555000,500000,100.0,12,bundle,tidak_berlaku,True,5550.0,True
+IndiHome,Paket JITU 1 1P 30 Mbps 280K,280000,500000,30.0,12,internet_only,tidak_berlaku,True,9333.0,True
+IndiHome,Paket IndiHome Gamer 3P 50…,615000,500000,50.0,12,bundle,tidak_berlaku,True,12300.0,True
+IndiHome,Paket IndiHome Gamer 3P 100…,965000,500000,100.0,12,bundle,tidak_berlaku,True,9650.0,True
+IndiHome,Paket IndiHome Gamer 2P-TV…,399000,500000,30.0,12,bundle,tidak_berlaku,True,13300.0,True
+IndiHome,Paket IndiHome Gamer 2P-…,545000,500000,50.0,12,bundle,tidak_berlaku,True,10900.0,True
+IndiHome,Paket IndiHome Gamer 2P-…,375000,500000,30.0,12,bundle,tidak_berlaku,True,12500.0,True
+IndiHome,Paket IndiHome Gamer 2P-…,895000,500000,100.0,12,bundle,tidak_berlaku,True,8950.0,True
+IndiHome,Paket JITU 1 1P 100 Mbps,425000,500000,100.0,12,internet_only,tidak_berlaku,True,4250.0,True
+IndiHome,Paket IndiHome Netflix 3P 100…,590000,500000,100.0,12,bundle,tidak_berlaku,True,5900.0,True
+IndiHome,Paket JITU 1 3P 50 Mbps,515000,500000,50.0,12,bundle,tidak_berlaku,True,10300.0,True
+IndiHome,Paket JITU 1 3P 30 Mbps 390K,390000,500000,30.0,12,bundle,tidak_berlaku,True,13000.0,True
+IndiHome,Paket Dynamic 1P 100 Mbps,480000,500000,100.0,12,internet_only,tidak_berlaku,True,4800.0,True
+IndiHome,Paket JITU 1 2P-TV 50 Mbps,505000,500000,50.0,12,bundle,tidak_berlaku,True,10100.0,True
+IndiHome,Paket JITU 1 2P-TV 30 Mbps…,370000,500000,30.0,12,bundle,tidak_berlaku,True,12333.0,True
+IndiHome,Paket Dynamic 1P 300 Mbps,888000,500000,300.0,12,internet_only,tidak_berlaku,True,2960.0,True
+IndiHome,Paket JITU 1 2P-Phone 50 Mbps,360000,500000,50.0,12,bundle,tidak_berlaku,True,7200.0,True
+IndiHome,Paket JITU 1 2P-Phone 30 Mbps,300000,500000,30.0,12,bundle,tidak_berlaku,True,10000.0,True
+IndiHome,Paket Dynamic 1P 50 Mbps,370000,500000,50.0,12,internet_only,tidak_berlaku,True,7400.0,True
+IndiHome,Paket Complete 1P 50 Mbps,405000,500000,50.0,12,internet_only,tidak_berlaku,True,8100.0,True
+Iconnet,Iconnet50 Sumatera &…,390000,250000,50.0,12,internet_only,Sumatera,False,7800.0,True
+Iconnet,Iconnet50 Jawa & Bali,330000,250000,50.0,12,internet_only,Jawa & Bali,True,6600.0,True
+Iconnet,Iconnet50 Indonesia…,410000,250000,50.0,12,internet_only,Indonesia (cakupan tidak jelas),False,8200.0,True
+Iconnet,Iconnet20 Sumatera &…,250000,250000,20.0,12,internet_only,Sumatera,False,12500.0,True
+Iconnet,Iconnet20 Jawa & Bali,220000,250000,20.0,12,internet_only,Jawa & Bali,True,11000.0,True
+Iconnet,Iconnet20 Indonesia…,280000,250000,20.0,12,internet_only,Indonesia (cakupan tidak jelas),False,14000.0,True
+Iconnet,Iconnet100 Sumatera &…,630000,250000,100.0,12,internet_only,Sumatera,False,6300.0,True
+Iconnet,Iconnet100 Jawa & Bali,560000,250000,100.0,12,internet_only,Jawa & Bali,True,5600.0,True
+Iconnet,Iconnet100 Indonesia…,680000,250000,100.0,12,internet_only,Indonesia (cakupan tidak jelas),False,6800.0,True
+Gastra Networks,GOFAST 100 Mbps,1100000,,100.0,,internet_only,tidak_berlaku,True,11000.0,False
+Gastra Networks,GOFAST 50 Mbps,693000,,50.0,,internet_only,tidak_berlaku,True,13860.0,False
+Gastra Networks,GOFAST 25 Mbps,440000,,25.0,,internet_only,tidak_berlaku,True,17600.0,False
